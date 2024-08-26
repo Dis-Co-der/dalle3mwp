@@ -18,7 +18,7 @@ Features:
 
 2. Go to DALLE3MWP:
    ```bash
-   cd DALLE3MWP
+   cd dalle3mwp
 
 3. Run the `dalle3mwp.bat` file to start the application.
    ```bash
@@ -32,7 +32,7 @@ Features:
 
 2. Go to DALLE3MWP:
    ```bash
-   cd DALLE3MWP
+   cd dalle3mwp
 
 3. Make dalle3mwp.sh executable:
    ```bash
@@ -46,7 +46,7 @@ Features:
    ```bash
    Running on local URL:  http://127.0.0.1:7860
 
-6. 'ctrl+click' the link and it opens up the app in the browser for you. Then follow the steps as it asks you to.
+6. 'ctrl+click' the link and it opens up the app in a tab in the browser. Then follow the steps as it asks you to.
 
 **NOTE**: The app requires your valid OpenAI apikey to work. Ensure you have enough credits. The api key you enter stays on your local machine and no one other than yourself have access to it. You can delete it anytime by deleting the file "application_config.txt" in the DALLE3MWP dir.
 
