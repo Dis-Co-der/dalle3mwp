@@ -1,6 +1,6 @@
 # DALLE-3 MASTERWARE +
 
-**DALLE-3 MASTERWARE +** is a wrapper application of OpenAI's Dall-e-3 built in Gradio to provide a GUI interface for user friendly interactions with the API by **PSYGNEX** on 26-08-2024. The application is owned and created by Dan "Daniel" Lappisto, sole owner of **PSYGNEX** and is hosted on GitHub at [Dis-Co-der](https://github.com/Dis-Co-der).
+**DALLE-3 MASTERWARE +** is a wrapper application of OpenAI's Dall-e-3 built in Gradio to provide a GUI interface for user friendly interactions with the API by **PSYGNEX** on 26-08-2024. The application is owned and created by Dan "Daniel" Lappisto, sole owner of **PSYGNEX** and is hosted on GitHub at [PSYGNEX](https://github.com/PSYGNEX).
 
 Features:
 -Cross Platform compatible(Windows and Linux)
