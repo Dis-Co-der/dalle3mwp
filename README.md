@@ -5,13 +5,14 @@
 Features:
 -Cross Platform compatible(Windows and Linux)
 -Multiple Pipelines
- -Text to Image
- -Image to Image
- -Image to Text
+ -Text to Image (includes captioning by GPT-4o)
+ -Image to Image (includes captioning by GPT-4o)
+ -Image to Text/Chat with GPT-4o
 
 ## Getting Started
 
 ### Windows Users
+**NOTE:Python 3.11.9 or higher is required to run this application. Also, pip==24.2, setuptools==73.0.1, wheel==0.4.0 is required to run this application. To install them run: "python -m pip install --upgrade pip==24.2 setuptools==73.0.1 wheel==0.44.0" in terminal.**
 1. Clone the repository using the following command:
    ```bash
    git clone https://github.com/Dis-Co-der/dalle3mwp.git
